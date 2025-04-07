@@ -38,6 +38,15 @@
 
 	</Label>
 
+	<Label alignment="BASELINE_LEFT"
+		   text="Ginwa And"
+		   textAlignment="CENTER" >
+		<font>
+			<Font size="31.0" />
+		</font>
+
+
+	</Label>
 
 </VBox>
 
