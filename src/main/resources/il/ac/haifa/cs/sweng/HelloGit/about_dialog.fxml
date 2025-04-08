@@ -20,7 +20,7 @@
 	</Label>
 
 	<Label alignment="BASELINE_LEFT"
-		   text="Micheal And"
+		   text="Micheal  And"
 		   textAlignment="CENTER" >
 	<font>
 		<Font size="31.0" />
@@ -38,6 +38,15 @@
 
 	</Label>
 
+	<Label alignment="BASELINE_LEFT"
+		   text="Ginwa"
+		   textAlignment="CENTER" >
+		<font>
+			<Font size="31.0" />
+		</font>
+
+
+	</Label>
 
 </VBox>
 
