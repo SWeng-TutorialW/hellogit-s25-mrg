@@ -39,7 +39,7 @@
 	</Label>
 
 	<Label alignment="BASELINE_LEFT"
-		   text="Ginwa And"
+		   text="Ginwa"
 		   textAlignment="CENTER" >
 		<font>
 			<Font size="31.0" />
